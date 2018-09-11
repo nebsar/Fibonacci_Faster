@@ -63,7 +63,7 @@ long long binetFormula(const int& n) {
 
 int main(int argc, char** argv) {
 
-    cout << Fib<45>::value << '\n';
+    cout << Fib<45>::value << '\n'; 
 
     cout << binetFib(45) << '\n';
 
